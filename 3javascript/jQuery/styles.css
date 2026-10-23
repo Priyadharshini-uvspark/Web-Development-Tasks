@@ -1,0 +1,9 @@
+/* h1{
+    color:purple;
+} */
+
+.big-title {
+    font-size: 50px;
+    font-family: cursive;
+    color: purple;
+}
